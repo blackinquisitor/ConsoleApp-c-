@@ -1,0 +1,15 @@
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.csproj.AssemblyReference.cache
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.AssemblyInfoInputs.cache
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.AssemblyInfo.cs
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.csproj.CoreCompileInputs.cache
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\bin\Debug\net6.0\ConsoleApp_YP.exe
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\bin\Debug\net6.0\ConsoleApp_YP.deps.json
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\bin\Debug\net6.0\ConsoleApp_YP.runtimeconfig.json
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\bin\Debug\net6.0\ConsoleApp_YP.dll
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\bin\Debug\net6.0\ConsoleApp_YP.pdb
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.dll
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\refint\ConsoleApp_YP.dll
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.pdb
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ConsoleApp_YP.genruntimeconfig.cache
+C:\Users\gr602_seban\source\repos\ConsoleApp_YP\ConsoleApp_YP\obj\Debug\net6.0\ref\ConsoleApp_YP.dll
